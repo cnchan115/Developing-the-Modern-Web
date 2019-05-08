@@ -1,0 +1,9 @@
+Student name: Chan Cheuk Ni
+Student id: 54777800
+Module: 205CDE
+Website name: Delicioso
+
+1. Please download the zip file(final) to get all the files needed for the website.
+* Zip file includes python.py, report(both pdf and docx), static folder(css, img, js, db) and templates folder(html)
+2. Please use Google Chrome inside Ubuntu to run the website. 
+3. Type localhost:8000/Home to link to the Home page.
